@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "autor": "NOTICIA 1",
+    "titulo": "BTS despedeix a Jin a l'enllistar-se al servei militar",
+    "srcimg": "https://6.viki.io/image/460de87dc25e4d1288195d98bffe2a3c/dummy.jpeg?s=900x600&e=t",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "El 13 de desembre Jin va entrar oficalment al servei militar a Yeocheon County de la provincia de Gyeonggi.",
+    "url": "https://www.soompi.com/es/article/537286wpp/bts-despide-a-jin-mientras-se-alista-en-el-ejercito"
+},
+{
+    "id": 2,
+    "autor": "NOTICIA 2",
+    "titulo": "Singles Inferno revela la data de la seva segona temporada",
+    "srcimg": "https://6.viki.io/image/2db26ab4f094476683f08d9c0f0b2638/dummy.jpeg?s=900x600&e=t",
+    "alt": "Descripción de la imágen",
+    "texto": "Netflix ha revelat el seu primer trailer de la serie Single's Inferno 2, juntament amb la data d'emissió",
+    "url": "https://www.soompi.com/es/article/535166wpp/singles-inferno-revela-fecha-de-estreno-de-la-temporada-2-y-trailer-candente."
+},
+{
+    "id": 3,
+    "autor": "NOTICIA 3",
+    "titulo": "New Jeans transmet els seus sentiments d'angustia al seu nou MV anomenat Ditto",
+    "srcimg": "https://6.viki.io/image/449b246bf35d411ab9697d5c8b7d34d0/dummy.jpeg?s=900x600&e=t",
+    "alt": "Descripción de la imágen",
+    "texto": "El 19 de decembre, New Jeans va treure el seu senzill de prellançament Ditto juntament amb al MV que te dos versions.",
+    "url": "https://www.soompi.com/es/article/537211wpp/newjeans-revela-los-primeros-teasers-de-regreso-de-omg-y-ditto"
+},
+{
+    "id": 4,
+    "autor": "NOTICIA 4",
+    "titulo": "BIGHIT MUSIC respon breument als informes de Suga de BTS allistant-se com a treballador del servei públic",
+    "srcimg": "https://6.viki.io/image/34571b9c42a04bf9b730900c3a1a3b79/dummy.jpeg?s=900x600&e=t",
+    "alt": "Descripción de la imágen",
+    "texto": "En resposta als informes, un representant de BIGHIT MUSIC va compartir, els membres de BTS planegen servir en l'exèrcit seqüencialment segons els seus propis plans. És difícil confirmar la informació personal de l'artista.",
+    "url": "https://www.soompi.com/article/1558303wpp/bighit-music-briefly-responds-to-reports-of-btss-suga-enlisting-as-a-public-service-worker"
+},
+{
+    "id": 5,
+    "autor": "NOTICIA 5",
+    "titulo": "Inkigayo no s'emetrà durant 3 setmanes consecutives",
+    "srcimg": "https://6.viki.io/image/1dfec69c9ffb4e438c55b2030b06f214/dummy.png?s=900x600&e=t",
+    "alt": "Descripción de la imágen",
+    "texto": "El desembre 18 Inkigayo va compartir a través de la seva web que el show no s'emetrà per 3 setmanes consecutives.",
+    "url": "https://www.soompi.com/es/article/537656wpp/inkigayo-no-se-emitira-durante-3-semanas-consecutivas"
+},
+{
+    "id": 6,
+    "autor": "NOTICIA 6",
+    "titulo": "RM es sincera sobre l'enllistament de Jin",
+    "srcimg": "https://6.viki.io/image/216ba07c0d8c4f2f92b6f467620260fa/dummy.jpeg?s=900x600&e=t",
+    "alt": "Descripción de la imágen",
+    "texto": "El 18 de desembre RM de BTS va fer una aparició al programa de noticies KBS News 9. Va parlar sobre el seu solo album Indigo i va compartir informació de BTS.",
+    "url": "https://www.soompi.com/es/article/537676wpp/rm-se-sincera-sobre-el-enlistamiento-de-jin-alcanzar-un-nuevo-capitulo-para-bts-los-tatuajes-a-juego-del-grupo-y-mas"
+}
+
+]
